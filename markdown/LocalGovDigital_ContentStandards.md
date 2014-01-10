@@ -1,10 +1,4 @@
-﻿#lgovital\001
-
-
-
-
-
-
+﻿
 Digital Content Guidelines
 ==========================
 
@@ -12,48 +6,10 @@ Version 1.01
 
 www.localgovdigital.info
 
-“Golden Rules”	3
-Is the content answering a question that our customers are asking?	4
-Is your content easy-to-read and understandable to a layperson?	5
-Is the content original?	6
-Can the content be found using search words that make sense to the customer?	7
-Are the graphics and pictures appropriate, and do they add something to the page?	8
-General advice for writing digital content	9
-Make your purpose clear	9
-Make your content understandable	10
-1.	Guidance on grammar and presentation when writing digital content	11
-1.1	You and us	11
-1.2	Abbreviations and Jargon	11
-1.3	Bullet points	12
-1.4	Contact information	12
-1.5	Ampersands	13
-1.6	Capital letters	13
-1.7	Dates and times	14
-1.8	‘e’ as a prefix	14
-1.9	Eg and ie	15
-1.10	Geography and regions	15
-1.11	Numbers	15
-1.12	Images	16
-1.13	Search engine optimisation	17
-2	Guidance specific to your particular type of content	18
-2.1	A digital form	18
-2.2	Information relating to a no-cost council service	18
-2.3	Information promoting an additional, paid-for service	19
-2.4	Promotional content	19
-2.5	Blog content	20
-2.6	Statutory content	20
-2.7	Emergency content	21
-2.8	Content details for a physical location or service	21
-2.9	Content about a person or team	22
-2.10	Data	23
-3	References	24
-3.1	Sources	24
-3.2 	Contributors to this document	24
 
 
 “Golden Rules"
 --------------
-
 
 
 In a sentence:
@@ -309,7 +265,7 @@ and not
 
 > “council x are launching a new service”.
 
-###	Abbreviations and Jargon
+### Abbreviations and Jargon
 
 Unless legally required to do so, avoid using council or professional jargon.
 
@@ -322,7 +278,7 @@ Use a shorter form of the phrase instead of an acronym or abbreviation if possib
 Don’t use full stops in abbreviations – BBC not B.B.C.
 Avoid referring to forms or documents by numbers (e.g. ‘Form 21B’) – give them a ‘friendly name’ based on their title and what they are used for; only include a reference number if it’s widely understood as shorthand by both customers and the council.
 
-###	Bullet points
+### Bullet points
 
 Bullet points make text easier to read. Here’s how to use them:
 
@@ -332,7 +288,7 @@ Don’t use full stops within bullet points – where possible start another bul
 Don’t put ‘or’, ‘and’ after the bullets
 Don’t end bullets with a full-stop
 
-###	Contact information
+### Contact information
 
 Frequently published physical addresses, members, senior officers, services and teams should have their own page on your site.
 
@@ -343,7 +299,7 @@ This is:
 
 You can find more about this in Section 2.8.
 
-####	People and teams
+####  People and teams
 
 Unless talking about a member or senior officer, avoid using individual names or other personal contact details.
 Refer instead to the contact details of their team or service.
@@ -590,7 +546,7 @@ It should always be stated that the views expressed are those of the individual,
 
 Example: The Local Plan
 
-2.6.1	Content guidance
+2.6.1 Content guidance
 
 For statutory reasons, sometimes councils need to publish pages written in legal or technical language. Where this is the case jargon and acronyms should be explained by the use of Tooltips and Popovers, where possible.
 
