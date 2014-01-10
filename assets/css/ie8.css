@@ -1,0 +1,41 @@
+#page
+{
+    margin:0;
+    text-align:left;
+}
+.container
+{
+width:100%;
+max-width:100%;
+}
+#navcol 
+{
+    float:left;
+    display:table;
+
+}
+#maincontent
+{
+
+width:auto;
+margin-left:20px;
+}
+#navcol ul
+{
+    padding:0;
+    margin:0;
+}
+.list-group-item
+{
+     width:250px;
+}
+.affix
+{
+   position:fixed;
+}
+
+
+
+
+
+
