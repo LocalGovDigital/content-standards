@@ -15,7 +15,7 @@ www.localgovdigital.info
 In a sentence:
 
 
-> Is the information you’re presenting to the public necessary, readable, original, easy to find and well-presented?
+**Is the information you’re presenting to the public necessary, readable, original, easy to find and well-presented?**
 
 
 
@@ -23,17 +23,9 @@ In a sentence:
 In a checklist:
 
 1. Is the content answering a question that our customers are asking?
-
-
 2. Is your content easy-to-read and understandable to a layperson?
-
-
 3. Is the content original?
-
-
 4. Can the content be found using search words that make sense to the customer?
-
-
 5. Are graphics and pictures appropriate and do they add something to the page?
 
 
@@ -78,7 +70,7 @@ Jargon, acronyms and technical terminology can make this difficult, and give the
 
 This leads to a perception that the council is not accessible. It also inevitably leads to people seeking information elsewhere, or through other means.
 
-Poorly written content online often leads to an increase in telephone calls and emails to the council to clear up confusion.  The average cost of a interacting with a customer via a phone call is usually estimated to be around £2, whereas online is estimated at 20p.
+Poorly written content online often leads to an increase in telephone calls and emails to the council to clear up confusion. The average cost of a interacting with a customer via a phone call is usually estimated to be around £2, whereas online is estimated at 20p.
 
 Could you understand your page with no prior knowledge?
 
@@ -87,6 +79,7 @@ Consider…
 Is it written in an accessible tone, in plain English, without being over-familiar?
 
 Your page should:
+
 * Be interesting but serve a purpose
 * Be approachable but not too chummy
 * Feel modern but not try to be ‘down with the kids’
@@ -104,7 +97,7 @@ Information should be in a common-sense order. Don’t assume the customer alrea
 
 Big blocks of text are difficult to read. Consider presenting ‘sets’ of related information in tables or introducing bulleted lists.
 
-Use bold text, but sparingly.  Avoid different coloured or differently sized text wherever possible, and never use italics or underlining.
+Use bold text, but sparingly. Avoid different coloured or differently sized text wherever possible, and never use italics or underlining.
 Is the content original?
 
 Content writers have to be careful when copying information from other places, especially private sector sources.
@@ -210,7 +203,7 @@ A reader may decide they’ve arrived at the wrong page if you don’t get to th
 It may be useful to state who the page is for, right at the start.
 For example:
 
-“This page is for people looking for information about getting help for an elderly relative at home.”
+> “This page is for people looking for information about getting help for an elderly relative at home.”
 
 Try to include more detailed information as you move down the page rather than overload the reader at the beginning.
 
@@ -224,8 +217,7 @@ If you need to include a great deal of information, think about how it might be 
 
 Try to strike a balance between text and white space.
 
-Including “background information” (for instance about the background to council decisions, or regarding internal council procedures) needs to be carefully considered.
-It is rarely useful to a customer. Provide ways to find this information if desired, such as contact names or email addresses rather than include it as standard.
+Including “background information” (for instance about the background to council decisions, or regarding internal council procedures) needs to be carefully considered. It is rarely useful to a customer. Provide ways to find this information if desired, such as contact names or email addresses rather than include it as standard.
 
 ### Make your content understandable
 
@@ -355,15 +347,27 @@ It is not a proper noun, and also implies the council is a stuffy and formal org
 ### Dates and times
 
 Use the following formatting:
-Tax year 2012 to 2013
-5:30pm (not 1730hrs)
-Monday to Friday, 9am to 5pm
-10 November to 21 December
-10am to 11am (not 10–11am)
+> Tax year 2012 to 2013
+
+> 5:30pm (not 1730hrs)
+
+> Monday to Friday, 9am to 5pm
+
+> 10 November to 21 December
+
+> 10am to 11am (not 10–11am)
+
 When referring to ‘today’ (for instance in a news article) make sure you include the date as well. For example:
-“The minister announced today (14 June, 2012) that…”
-Only use the endings st, nd, rd and th when referring to centuries, anniversaries, or positions. For example: He lived in the 19th century
-For financial years, sports seasons and school years write 2012/13 not 2012-13, 2012-3, 2012/3 or 2012-2013. For example: Funding is available for 2012/13
+
+> “The minister announced today (14 June, 2012) that…”
+
+Only use the endings st, nd, rd and th when referring to centuries, anniversaries, or positions. For example:
+
+> He lived in the 19th century
+
+For financial years, sports seasons and school years write 2012/13 not 2012-13, 2012-3, 2012/3 or 2012-2013. For example:
+
+> Funding is available for 2012/13
 
 ### ‘e’ as a prefix
 Where the prefix ‘e’ refers to electronic, it should always be lower case with a hyphen.  For example:
@@ -372,12 +376,15 @@ e-government
 e-learning
 e-procurement
 The only exception to this is Email.
+
 At the beginning of a sentence, capitalise the first letter of the word that follows the e, rather than the e itself.
 For example:
-e-Business
-e-Government
-e-Learning
-e-Procurement.
+
+* e-Business
+* e-Government
+* e-Learning
+* e-Procurement
+
 Again, there is only one exception - ‘Email’ at the start of a sentence must be capitalised.
 
 ### Eg and ie
@@ -388,7 +395,7 @@ Compass directions are all in lowercase: the north, the south of England, the so
 
 ### Numbers
 Numbers up to and including ten are written in full (three, five, nine).
-11 and over are given in figures unless they start a sentence, eg
+11 and over are given in figures unless they start a sentence, eg:
 > “Thirty-two people visited the…”
 Numbers over 1,000 have comma separators, eg: 1,962 not 1962.
 Percent should be written in full in the text: in graphs and tables use %.
@@ -626,30 +633,27 @@ Example: Council spending over £500
 
 ### Sources
 
-Government Digital Service, UK
-Content Principles
-https://www.gov.uk/designprinciples/styleguide
+Government Digital Service, UK:
+[Content Principles](https://www.gov.uk/designprinciples/styleguide)
 
-Lambeth Council
+Lambeth Council:
 Style Guide: lambeth.coop
 
-Hampshire County Council
+Hampshire County Council:
 Style Guide
 
-Monmouthshire County Council, UK
-Staff writing guide: ‘Welcome to Compose’
-http://digitalmon.wordpress.com/2013/04/09/monmouthshire-county-council-staff-writing-guide-draft-welcome-to-compose/
+Monmouthshire County Council, UK:
+[Staff writing guide: ‘Welcome to Compose’](http://digitalmon.wordpress.com/2013/04/09/monmouthshire-county-council-staff-writing-guide-draft-welcome-to-compose/)
 
-School of Public Administration, University of Victoria, Canada
-Writing in the Public Sector - Student Resources
-http://www.uvic.ca/hsd/publicadmin/assets/docs/aboutUs/linksofinterest/writingResources.pdf
+School of Public Administration, University of Victoria, Canada:
+[Writing in the Public Sector - Student Resources](http://www.uvic.ca/hsd/publicadmin/assets/docs/aboutUs/linksofinterest/writingResources.pdf)
 
 
 ### Contributors to this document
 
 * James Gore – West Berkshire Council;
 * Sarah Lay - Nottinghamshire County Council;
-* Paul MacKay - Nesta;
+* Paul Mackay - Nesta;
 * Phil Rumens - West Berkshire Council;
 * Marc Snaith – Surrey County Council;
 * Jason Williams – Cornwall Council;
