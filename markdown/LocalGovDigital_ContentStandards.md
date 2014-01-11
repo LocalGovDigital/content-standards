@@ -274,11 +274,11 @@ Avoid referring to forms or documents by numbers (e.g. ‘Form 21B’) – give 
 
 Bullet points make text easier to read. Here’s how to use them:
 
-Always use a ‘lead-in’ sentence before starting the list off – as we’ve done above
-Bullets should always make sense running on from the lead-in sentence
-Don’t use full stops within bullet points – where possible start another bullet point or use commas, dashes or semicolons to expand on something
-Don’t put ‘or’, ‘and’ after the bullets
-Don’t end bullets with a full-stop
+* Always use a ‘lead-in’ sentence before starting the list off – as we’ve done above
+* Bullets should always make sense running on from the lead-in sentence
+* Don’t use full stops within bullet points – where possible start another bullet point or use commas, dashes or semicolons to expand on something
+* Don’t put ‘or’, ‘and’ after the bullets
+* Don’t end bullets with a full-stop
 
 ### Contact information
 
@@ -322,6 +322,7 @@ Don’t include any other words as part of the link.
 Once you’ve linked a document, page or resource once using a phrase in the text, don’t repeat this each time the same phrase is used afterwards.
 
 #### Telephone numbers
+
 Use ‘Telephone:’ or ‘Mobile:’ not ‘Mob:’ or ‘Tel:’.
 Use spaces in the number between the city dialling code and local exchange.
 
@@ -371,10 +372,12 @@ For financial years, sports seasons and school years write 2012/13 not 2012-13, 
 
 ### ‘e’ as a prefix
 Where the prefix ‘e’ refers to electronic, it should always be lower case with a hyphen.  For example:
-e-business
-e-government
-e-learning
-e-procurement
+
+* e-business
+* e-government
+* e-learning
+* e-procurement
+
 The only exception to this is Email.
 
 At the beginning of a sentence, capitalise the first letter of the word that follows the e, rather than the e itself.
