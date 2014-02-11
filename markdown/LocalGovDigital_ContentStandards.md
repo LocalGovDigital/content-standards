@@ -27,6 +27,7 @@ In a checklist:
 3. Is the content original?
 4. Can the content be found using search words that make sense to the customer?
 5. Are graphics and pictures appropriate and do they add something to the page?
+6. Are headings used appropriately to break content up into identifiable sections?
 
 
 
@@ -190,6 +191,19 @@ Pictures that are much bigger than the amount of text on the page make the conte
 Too many pictures also draw the eye away from important information, reduce the visual effect of including them at all, and makes pages crowded and messy.
 
 Less is frequently more!
+
+
+**Are headings used appropriately to break content up into identifiable sections?**
+
+Headings provide a means for customers to quickly scan a page and identify the content they want to read. However, having too many headings can make a page look cluttered, making it harder to scan, so finding a good balance is key. 
+
+The important thing to keep in mind is to use the correct HTML headings rather than bold text. The styling used will visually imply sections and sub-sections of text, and will do the same for screen readers, aiding accessibility.
+
+Consider...
+
+If a content page is long and contains a lot of headings, it can help to break down the text over a number of separate pages. Not only will this aid readabilty, but it will also improve your SEO as keywords will be more relevant on shorter pages.
+
+ 
 
 
 General advice for writing digital content
