@@ -1,8 +1,8 @@
-﻿
+
 Digital Content Guidelines
 ==========================
 
-Version 1.01
+Version 1.1
 
 www.localgovdigital.info
 
@@ -27,7 +27,6 @@ In a checklist:
 3. Is the content original?
 4. Can the content be found using search words that make sense to the customer?
 5. Are graphics and pictures appropriate and do they add something to the page?
-6. Are headings used appropriately to break content up into identifiable sections?
 
 
 
@@ -111,6 +110,14 @@ Care also needs to be taken with images and graphics.
 
 Are you sure that the information or images you’re including are owned by your organisation and won’t change outside of our control?
 
+Are headings used appropriately to break content up into identifiable sections?
+
+Headings provide a means for customers to quickly scan a page and identify the content they want to read. However, having too many headings can make a page look cluttered, making it harder to scan, so finding a good balance is key. 
+
+The important thing to keep in mind is to use the correct HTML headings rather than bold text. The styling used will visually imply sections and sub-sections of text, and will do the same for screen readers, aiding accessibility.
+
+If a content page is long and contains a lot of headings, it can help to break down the text over a number of separate pages. Not only will this aid readabilty, but it will also improve your SEO as keywords will be more relevant on shorter pages.
+
 
 Consider…
 
@@ -191,17 +198,6 @@ Pictures that are much bigger than the amount of text on the page make the conte
 Too many pictures also draw the eye away from important information, reduce the visual effect of including them at all, and makes pages crowded and messy.
 
 Less is frequently more!
-
-
-**Are headings used appropriately to break content up into identifiable sections?**
-
-Headings provide a means for customers to quickly scan a page and identify the content they want to read. However, having too many headings can make a page look cluttered, making it harder to scan, so finding a good balance is key. 
-
-The important thing to keep in mind is to use the correct HTML headings rather than bold text. The styling used will visually imply sections and sub-sections of text, and will do the same for screen readers, aiding accessibility.
-
-Consider...
-
-If a content page is long and contains a lot of headings, it can help to break down the text over a number of separate pages. Not only will this aid readabilty, but it will also improve your SEO as keywords will be more relevant on shorter pages.
 
  
 
@@ -646,6 +642,28 @@ Example: Council spending over £500
 * Links to the data, in all available formats with a link to an explanation of each format
 * Links to related information about the data
 
+### Content that supports the local democratic process
+
+Example:   Advertising for a committee meeting open to the public, invitation to contribute to a scrutiny inquiry
+
+#### Content guidance
+
+Although they have much in common, digital content for local democracy is different to digital content for local services. This content should seek to engage with people as citizens rather than as customers.  Specifically it will arise from the democratic process rather than from customer demand or service departments.  
+
+Care should be taken to provide a neutral and factual commentary of questions, proposals and decisions that come from council meetings such as cabinet and scrutiny meetings. The intention should be to provide content that will stimulate debate without entering that debate.  Content should never explicitly, implicitly or by omission favour one politician or political party over another. 
+
+Each post should be about one thing so that it translates easily through social media.  Content should lead with something that people actually care about, in other words NOT with the details of a meeting but about the topic for that meeting.     It should be written with a particular section of the public in mind (e.g. all residents, social workers, parents, carers).  There should be a clear sense of why this group will want to engage with the content.  
+
+Content should be placed where councillors can easily see and share it and steps should be taken to encourage councillors to share this content for example by email or face to face.
+
+#### What content should be included
+
+- A carefully crafted title to encourage social media sharing
+- A short paragraph below the title that summarises the post 
+- An engaging and friendly style 
+- A picture that tells the story
+
+
 ## References
 
 ### Sources
@@ -666,7 +684,7 @@ School of Public Administration, University of Victoria, Canada:
 [Writing in the Public Sector - Student Resources](http://www.uvic.ca/hsd/publicadmin/assets/docs/aboutUs/linksofinterest/writingResources.pdf)
 
 
-### Contributors to this document
+### Contributors to the original document
 
 * James Gore – West Berkshire Council;
 * Sarah Lay - Nottinghamshire County Council;
@@ -674,3 +692,11 @@ School of Public Administration, University of Victoria, Canada:
 * Phil Rumens - West Berkshire Council;
 * Marc Snaith – Surrey County Council;
 * Jason Williams – Cornwall Council;
+
+
+### Contributors to amendments
+
+* Project WIP - Shropshire Council;
+* Dave McKenna - City and County of Swansea 
+
+
